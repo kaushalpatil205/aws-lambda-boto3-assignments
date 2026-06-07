@@ -3,7 +3,7 @@
 Welcome to my advanced AWS automation portfolio. This repository showcases my proficiency in designing, deploying, and managing event-driven serverless architectures using **AWS Lambda** and the **Python Boto3 SDK**. 
 
 ## 👤 Author
-- **Name:** Vraj
+- **Name:** Kaushal
 - **Primary AWS Region:** `ap-south-1` (Mumbai)
 
 ---
